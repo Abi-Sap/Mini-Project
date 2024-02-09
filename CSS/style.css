@@ -189,9 +189,11 @@ body{
     width: 100%;
     padding: 10px;
 }
+
 h2{
     color: blue;
 }
+
 #nk1{
     float: right;
     height: 260px;
@@ -284,9 +286,11 @@ h2{
     background: rgb(127, 183, 247);
     padding: 10px;
 }
+
 h1{
     text-align: center;
 }
+
 .div1{
 	display:flex;	
 	justify-content:space-between;
@@ -294,20 +298,24 @@ h1{
 	flex-wrap:wrap;
     
 }
+
 .div2{
 	border-radius:5%;
 	margin-bottom:20px;
 	background:white;
 	font-family: cursive;
 }
+
 #img{
 	height:200px;
 	width:280px;
 	border-radius:5%;
 }
+
 p{
     font-family: cursive;
 }
+
 /* Footer */
 .footer{
     padding: 20px;
@@ -315,6 +323,7 @@ p{
     background-image:linear-gradient(to right, #00b4db, #0083b0);
     max-width: 100%;
 }
+
 /* Style all font awesome icons */
 .fa {
     font-size: 50px;
@@ -325,6 +334,7 @@ p{
     margin: 10px;
     padding: 10px;
 }
+
 .fa:hover {
     opacity: 0.9;
    border: 1px solid black;
@@ -350,8 +360,9 @@ p{
     background: #007bb5;
     color: white;
 }
+
 .footerrow{
     display: flex;
     text-align: center;
     justify-content: space-around;
-}
+}}
