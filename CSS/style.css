@@ -4,7 +4,8 @@
 }
 body{
     margin: auto;
-    background-color: #55ACEE;
+    /* background-color: #55ACEE; */
+    background-color: red;
 }
 /* style for homepage */
 
@@ -366,3 +367,4 @@ p{
     text-align: center;
     justify-content: space-around;
 }}
+
